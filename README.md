@@ -23,6 +23,13 @@ To access my projects, navigate through each unit. Each unit has a folder for ea
 
 ## Unit 3: Advanced Programming Concepts
 3.1: Exploring Computer Science - Quantum Computing (PowerPoint presentation explaining the emerging technology: Quantum Computing), Artificial Intelligence (PowerPoint presentation explaining theoretical research behind Artificial Intelligence), and Computer Science Collaborative Research (MLA Format report discussing collaboration between computer science and linguistics research).  
-3.2: Recursion - 
+3.2: Recursion - Fibonacci (Java Application that uses recursion to find the number in the Fibonacci sequence at an input term), NChooseR (Java Application that  uses recursion to find the number of ways to choose a "r" different objects from a set of "n" objects), and ReduceFraction (Java Application that uses recursion to reduce an input fraction to the lowest terms).  
+3.3: Searching Algorithms - BookList (Java Application that uses linear search and binary search to find books from a text file based on reference numbers).  
+3.4: Sorting Routines - Sorting Routines (Java Application that sorts a random list of numbers (the size of which the user inputs) through different sort methods) and Sorting Efficiencies (Java Application that sorts a random list of numbers (the size of which the user inputs) through different sort methods and outputs efficiencies for each method).  
+3.5: Accessing External Data - universitiesSample.xml (simple XML file that displays some university information) and XMLCreate (Java Application that creates an xml file, edits it, and prints out its contents using JDOM).  
+3.6: Exploring Careers in Computer Science - Computer Scientists Career Research Report (IEEE Format report discussing the career path of a computer scientist).  
 
 ## Unit 4: Final Summative - Game
+4.1: Scope Report - Scope Report for HomebaseDefence (simple PDF report discussing scope of the final summative).  
+4.2: Feasibility Report - Feasibility Report for HomebaseDefence (simple PDF report discussing feasibility of the final summative).  
+4.3: Code - HomebaseDefence-main (use run.sh for MacOS and run.bat for Windows to run the final game) and HomebaseDefenceUserGuide (simple user guide highlighting installation instructions, gameplay instructions, key features, and introducing the game).  
