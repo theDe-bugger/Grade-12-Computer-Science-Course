@@ -1,0 +1,18 @@
+<applications>
+<!--This is the database for university programs I have considered --> 
+	<programs>
+		<name>Computer Science</name>
+		<university>University of Waterloo</university>
+		<reqaverage>95</reqaverage>
+	</programs>
+    <programs>
+		<name>Software Engineering</name>
+		<university>University of Waterloo</university>
+		<reqaverage>95</reqaverage>
+	</programs>
+   <programs>
+		<name>Electrical and Computer Engineering</name>
+		<university>University of Toronto</university>
+		<reqaverage>90</reqaverage>
+	</programs>
+</applications>
